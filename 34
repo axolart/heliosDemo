@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Mystique.jpg",
- 	"description": "NFT_Mystique.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmfD8r97vfgf3gb2aeAF5thXkpUdg2JuKMudPahD4MGzTp"
- }
+	"name": "Robin",
+ 	"description": "Robin",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmd44BKjpaiXCj8VXuuXveqk5EdQKd8AJmB6FQXFqaqyHd",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Head",
+			"value": "Sunglasses"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Light Blue"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Gold Owl Pendant"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Blue Zip Up"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light Blue"
+		},
+	]
+}

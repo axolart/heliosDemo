@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Luffy.jpg",
- 	"description": "NFT_Luffy.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmSvnKjhif62ubdWhi8V9AezH7fJRWSzJuw4mSDYpSVAm7"
- }
+	"name": "Bellatrix ",
+ 	"description": "Bellatrix ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmf88kvGKwaXw3dNNvrtXk53sKbnKSJ61cWu6byrpHULMY",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown/Grey"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Lipstick"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Raven Skull Necklace"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Gothic Dress"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Silver Spear"
+		},
+	]
+}

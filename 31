@@ -1,5 +1,47 @@
 {
-	"name": "NFT_Malfoy.jpg",
- 	"description": "NFT_Malfoy.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmX9sth8PJQtLKL1CCcvg42e7KqKXjsEsSa7mh8bTPBwSV"
- }
+	"name": "Leia ",
+ 	"description": "Leia ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPAa795WAR7xd1KoYC5BYgTnLr7br93L8U12zYJPWJb28",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Lipstick"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Metal Choker"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Bronze Cuff"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Metal Bikini"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Bronze Spear"
+		},
+	]
+}

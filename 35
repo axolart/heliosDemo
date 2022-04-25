@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Nami.jpg",
- 	"description": "NFT_Nami.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmXuTYEHjBzdzrQzkJdFeuJmTa2FNnX18BYLCBzYtCo1kT"
- }
+	"name": "Bulma",
+ 	"description": "Bulma",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qme4ApqyytK9qLZMqZ8BX4J6zy1AdPEDZpk9RsFnNJ6UNL",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Head",
+			"value": "Red Bow"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Purple Scarf"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Silver Cuff"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Pink T Shirt"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+	]
+}

@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Foot_PSG.jpg",
- 	"description": "NFT_Foot_PSG.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmdV9W2zYZpUt4ATVBzshjEVWjvDBcYjroMhXrdmWoFsHh"
- }
+	"name": "Malfoy ",
+ 	"description": "Malfoy ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXeqMHyrS7Y1qT7FuzqgE3igsdxrUuyoQhXf98Lb2eGsW",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Light Blonde"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Light Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Blonde Beard"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Striped Scarf"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Scholar Robe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Green"
+		},
+	]
+}

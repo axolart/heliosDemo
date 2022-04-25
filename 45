@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Thor.jpg",
- 	"description": "NFT_Thor.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmWZ7Nxk1U3v3Y4EjvjdCurVapgTveFoUCYmEQYSfzccAN"
- }
+	"name": "Ace ",
+ 	"description": "Ace ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmTk3Cqis7J5XCok1ZcMWB1EGHMBeJfaJokHuYkWRfpSxC",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Cowboy hat"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Dark Brown Beard, Freckles"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Beaded Necklace"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Flames"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Gold"
+		},
+	]
+}

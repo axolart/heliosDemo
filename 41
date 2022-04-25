@@ -1,5 +1,31 @@
 {
-	"name": "NFT_Sakura.jpg",
- 	"description": "NFT_Sakura.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmdXx7bzxVohfH9pUR3Rc9h4NYjvV2v43HqEFwHeHjANax"
- }
+	"name": "Captain Marvel",
+ 	"description": "Captain Marvel",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmTK9Rv6yeRyYpCnmL917KkiV27ca3j2vAPzthqgQsN3H1",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Blonde"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Blue and Red Body Suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Gold"
+		},
+	]
+}

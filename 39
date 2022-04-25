@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Rei.jpg",
- 	"description": "NFT_Rei.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmfKxJJnTEYYLCSwJGT6eEbQH7eQ6hWne5w85JkaGxY59i"
- }
+	"name": "Hinata ",
+ 	"description": "Hinata ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmV13LEQyNAUMgTScQRwQSc8H6rCp4tvzZH9t5dTb1ck3d",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Dark Blue"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Lavendar"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Metal Headband"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Zip Hoodie"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Logo"
+		},
+	]
+}

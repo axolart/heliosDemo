@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Cyclops.jpg",
- 	"description": "NFT_Cyclops.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmedR3rN9WjMB9QhYS2aDv6MmTYZeDRHzsa9SMv5GpewaP"
- }
+	"name": "PSG ",
+ 	"description": "PSG ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXfvhf3pmpifoj4s1yt5JyskCJ8JDiBCVAPn4S3G9gEG3",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Silver Aegis"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Blue Sports Top"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Maroon"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Lettering , Helios logo"
+		},
+	]
+}

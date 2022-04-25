@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Magneto.jpg",
- 	"description": "NFT_Magneto.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmcsuzTHDuMLtHs2YaazWDWrxNVwuUA67MZNBw9GFaH1ED"
- }
+	"name": "Thor",
+ 	"description": "Thor",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmaqJHkFVnf2vX5Ftscd48h58CoJBXsUiv7yaQYNVF9885",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Blonde"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Glow"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Blonde Beard"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black Armour Suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light Blue"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Red Cape"
+		},
+	]
+}

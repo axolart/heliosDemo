@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Naruto.jpg",
- 	"description": "NFT_Naruto.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmXqNm2YCTcrdXMKjbFGAdoSwmHkoPsjfEnuxCLCEH1WSD"
- }
+	"name": "Goku ",
+ 	"description": "Goku ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNQRsWBxxc85fGocKXybzYzLsFbxEiegBqD8UJdL5qTgn",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Yellow"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Dark Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Yellow Beard"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Orange and Blue Uniform"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Silver Lightning"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Logo"
+		},
+		{
+			"trait_type": "Perk",
+			"value": "£300 Per Month For Life"
+		},
+	]
+}

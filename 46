@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Tornade.jpg",
- 	"description": "NFT_Tornade.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/Qma6oK7wFa65JL4uK8j9pKP84Sq4FLPrwzHTe9HhE2iwLw"
- }
+	"name": "Luffy ",
+ 	"description": "Luffy ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUKDmywZxkBR1szJQcmS2WxGtDi16CcCDj875EtSCm9FC",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Black Beard"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Straw Hat"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Body Scar"
+		},
+	]
+}

@@ -1,5 +1,47 @@
 {
-	"name": "NFT_Foot_Newcastle.jpg",
- 	"description": "NFT_Foot_Newcastle.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmXYquMB86mwkdGRSko5YJCEwQiRZvpMNbY9ozZood7Ycj"
- }
+	"name": "NUFC",
+ 	"description": "NUFC",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmSr1aDaoHzTJrH1U8copquZQ5ZMQc4u68MFWD58jMfRhc",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Head",
+			"value": "Helios Headband"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Black Cuff"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black and White Sports Top"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Lettering , Helios logo"
+		},
+		{
+			"trait_type": "Perk",
+			"value": "Season Ticket For Premiership Club "
+		},
+	]
+}

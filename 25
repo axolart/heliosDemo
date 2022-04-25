@@ -1,5 +1,35 @@
 {
-	"name": "NFT_Kakashi.jpg",
- 	"description": "NFT_Kakashi.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/Qmc4r9Qd1JRW3U8LhBrWAX25ookmviXSu5msHGgggquLDr"
- }
+	"name": "Hermione ",
+ 	"description": "Hermione ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNzQtxPNzVFza6uWhG4h9Rda8Qm7ATBR9bWzirxjNFCX4",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Bronze Aegis"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Scholar Uniform"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light Brown"
+		},
+	]
+}

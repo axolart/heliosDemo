@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Dumbledore.jpg",
- 	"description": "NFT_Dumbledore.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmSezJGo7vYG1ZyCmGc3sE1Z2gsF34iEVD6WvNvy2FvdxP"
- }
+	"name": "Storm",
+ 	"description": "Storm",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPS4pc6GDJpSaitQwkK7Et8RVVMmYWQVWrkEN2edw5KY9",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "White "
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "White Glow"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Lipstick"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "White Rubber Suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Grey"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Double Helios Logo"
+		},
+	]
+}

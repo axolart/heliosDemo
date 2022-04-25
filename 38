@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Peach.jpg",
- 	"description": "NFT_Peach.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmcqrVBk99aqTzbxNCyR4UCSvvAAgHwC8NPY1287pezeZe"
- }
+	"name": "Kakashi ",
+ 	"description": "Kakashi ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmYFd5M4s6Nin9rGtx6yfp3vwX6vrgEZtBQ9dkDtKrnK74",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Metal Headband"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "White"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Face",
+			"value": "White Beard"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Anime Army Suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Green"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Logo"
+		},
+	]
+}

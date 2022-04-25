@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Wolverine.jpg",
- 	"description": "NFT_Wolverine.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmTXCRtMN4E7qGCLKMmgrk8ywKXV48GqfoJqH5R14UxE3m"
- }
+	"name": "Wonderwoman",
+ 	"description": "Wonderwoman",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmfFy3qGi7BFoYdcP9xDWKW9Q8TssPqJBNmkWNUyLyBfjP",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Head",
+			"value": "Gold Tiara"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Lipstick"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Gold Aegis"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red Rubber Corset"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Orange"
+		},
+	]
+}

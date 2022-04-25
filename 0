@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Ace.jpg",
- 	"description": "NFT_Ace.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmTk3Cqis7J5XCok1ZcMWB1EGHMBeJfaJokHuYkWRfpSxC"
- }
+	"name": "Batman",
+ 	"description": "Batman",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPRm929XJsxuJRs2ZFMdMx6chuKNsL7iwR67VvwkztHGk",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Black Beard"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black Rubber Suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Blue"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Black Thunderbolt, Dark Blue Cape"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Logo"
+		},
+	]
+}

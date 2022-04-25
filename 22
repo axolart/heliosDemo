@@ -1,5 +1,31 @@
 {
-	"name": "NFT_Hermione.jpg",
- 	"description": "NFT_Hermione.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmNc63foD7oPz4ByU3hk7A2zrAaU12Swkq8zVXcjxutbJ8"
- }
+	"name": "Cyclops ",
+ 	"description": "Cyclops ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNPnR7LcudBreSbxTBUhbUUjUCoiS1gMypfLBVpNnFzEX",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Laser eyewear, Brown Beard"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black Leather Suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Brown"
+		},
+	]
+}

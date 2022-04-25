@@ -1,5 +1,39 @@
 {
-	"name": "NFT_C18.jpg",
- 	"description": "NFT_C18.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/Qme8GiZbKopuRfYhQXkLgA1kvRL2arXpCuDkCtP61W2WhF"
- }
+	"name": "Rey",
+ 	"description": "Rey",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmU5Ch8xdF2bhcHuKbKFEjSDCWLvgvEu1NNPjcebN6aHZR",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Athena "
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Light Brown"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Bronze Owl Pendant"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Leather Cuff"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "White Tunic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light Brown"
+		},
+	]
+}

@@ -1,5 +1,39 @@
 {
-	"name": "NFT_Itachi.jpg",
- 	"description": "NFT_Itachi.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmXWiJkwssh7Ja3QVcoSuyDQX1XCj7oV4NSV2vmiASBo5f"
- }
+	"name": "Dumbledore ",
+ 	"description": "Dumbledore ",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmaac5Bn2FuucQVEbiK9nr1nhxEKt9kehQMZVrRuryZCmJ",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Bonnet"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "White"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Half Moon Glasses"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Wizards Robe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Aqua"
+		},
+	]
+}

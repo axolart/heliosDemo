@@ -1,5 +1,43 @@
 {
-	"name": "NFT_Sanji.jpg",
- 	"description": "NFT_Sanji.jpg",
- 	"image": "https://gateway.pinata.cloud/ipfs/QmPJNJZrCqQCJN3ZgKxBcBPsd41cdXYYYpciphwfUR9pEk"
- }
+	"name": "Wolverine",
+ 	"description": "Wolverine",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmRgQ4oLAcQMhgXg6bNFRRBH5eU8Pbib8mJekj13Mr1gNt",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Zeus"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Grey"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Dog Tags"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "White Vest"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios Logo"
+		},
+	]
+}
