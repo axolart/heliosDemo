@@ -1,11 +1,11 @@
 {
-	"name": "Wonderwoman",
- 	"description": "Wonderwoman",
+	"name": "#49",
+ 	"description": "#49",
  	"image": "https://gateway.pinata.cloud/ipfs/QmfFy3qGi7BFoYdcP9xDWKW9Q8TssPqJBNmkWNUyLyBfjP",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Head",

@@ -1,11 +1,11 @@
 {
-	"name": "PSG ",
- 	"description": "PSG ",
+	"name": "#14",
+ 	"description": "#14",
  	"image": "https://gateway.pinata.cloud/ipfs/QmXfvhf3pmpifoj4s1yt5JyskCJ8JDiBCVAPn4S3G9gEG3",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

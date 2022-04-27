@@ -1,11 +1,11 @@
 {
-	"name": "Rey",
- 	"description": "Rey",
+	"name": "#11",
+ 	"description": "#11",
  	"image": "https://gateway.pinata.cloud/ipfs/QmU5Ch8xdF2bhcHuKbKFEjSDCWLvgvEu1NNPjcebN6aHZR",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

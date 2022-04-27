@@ -1,11 +1,11 @@
 {
-	"name": "C-18",
- 	"description": "C-18",
+	"name": "#22",
+ 	"description": "#22",
  	"image": "https://gateway.pinata.cloud/ipfs/QmSQG3XW4V5gJTu6Z99XFTtRAYU9PFcR9kC5EPcgsiNPqc",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

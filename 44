@@ -1,11 +1,11 @@
 {
-	"name": "Nami",
- 	"description": "Nami",
+	"name": "#45",
+ 	"description": "#45",
  	"image": "https://gateway.pinata.cloud/ipfs/QmR7KSY5q2CkADoPGPe6NBjuH7CrM4NzudVUfrvy66XeUu",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

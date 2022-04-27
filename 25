@@ -1,11 +1,11 @@
 {
-	"name": "Hermione ",
- 	"description": "Hermione ",
+	"name": "#26",
+ 	"description": "#26",
  	"image": "https://gateway.pinata.cloud/ipfs/QmNzQtxPNzVFza6uWhG4h9Rda8Qm7ATBR9bWzirxjNFCX4",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

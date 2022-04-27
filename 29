@@ -1,11 +1,11 @@
 {
-	"name": "Bellatrix ",
- 	"description": "Bellatrix ",
+	"name": "#30",
+ 	"description": "#30",
  	"image": "https://gateway.pinata.cloud/ipfs/Qmf88kvGKwaXw3dNNvrtXk53sKbnKSJ61cWu6byrpHULMY",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

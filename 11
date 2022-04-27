@@ -1,11 +1,11 @@
 {
-	"name": "Supergirl",
- 	"description": "Supergirl",
+	"name": "#12",
+ 	"description": "#12",
  	"image": "https://gateway.pinata.cloud/ipfs/QmZKCG2cn4dNkoQHey1psXapNAhBjqhM9B7hS5rs1MtvS2",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

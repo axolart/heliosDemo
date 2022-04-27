@@ -1,11 +1,11 @@
 {
-	"name": "Bulma",
- 	"description": "Bulma",
+	"name": "#36",
+ 	"description": "#36",
  	"image": "https://gateway.pinata.cloud/ipfs/Qme4ApqyytK9qLZMqZ8BX4J6zy1AdPEDZpk9RsFnNJ6UNL",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Head",

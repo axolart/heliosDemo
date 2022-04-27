@@ -1,11 +1,11 @@
 {
-	"name": "NUFC",
- 	"description": "NUFC",
+	"name": "#19",
+ 	"description": "#19",
  	"image": "https://gateway.pinata.cloud/ipfs/QmSr1aDaoHzTJrH1U8copquZQ5ZMQc4u68MFWD58jMfRhc",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Head",
@@ -41,7 +41,7 @@
 		},
 		{
 			"trait_type": "Perk",
-			"value": "Season Ticket For Premiership Club "
+			"value": "Season Ticket For Premiership Club"
 		},
 	]
 }

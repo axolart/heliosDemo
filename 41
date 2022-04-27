@@ -1,11 +1,11 @@
 {
-	"name": "Captain Marvel",
- 	"description": "Captain Marvel",
+	"name": "#42",
+ 	"description": "#42",
  	"image": "https://gateway.pinata.cloud/ipfs/QmTK9Rv6yeRyYpCnmL917KkiV27ca3j2vAPzthqgQsN3H1",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",

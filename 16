@@ -1,15 +1,15 @@
 {
-	"name": "Storm",
- 	"description": "Storm",
+	"name": "#17",
+ 	"description": "#17",
  	"image": "https://gateway.pinata.cloud/ipfs/QmPS4pc6GDJpSaitQwkK7Et8RVVMmYWQVWrkEN2edw5KY9",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",
-			"value": "White "
+			"value": "White"
 		},
 		{
 			"trait_type": "Eyes",

@@ -1,11 +1,11 @@
 {
-	"name": "Leia ",
- 	"description": "Leia ",
+	"name": "#32",
+ 	"description": "#32",
  	"image": "https://gateway.pinata.cloud/ipfs/QmPAa795WAR7xd1KoYC5BYgTnLr7br93L8U12zYJPWJb28",
  	"attributes": [
 		{
 			"trait_type": "Character",
-			"value": "Athena "
+			"value": "Athena"
 		},
 		{
 			"trait_type": "Hair",
