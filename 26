@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "White"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Orange"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "White Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Black Space Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Black"
-		},
-		{
+		},		{
 			"trait_type": "Aura",
 			"value": "Red Aura"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Black Cape"
-		},
+		}
 	]
 }

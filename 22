@@ -6,26 +6,21 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Laser eyewear, Brown Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Black Leather Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Brown"
-		},
+		}
 	]
 }

@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Metal Headband"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Black"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Red"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Black beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Black Anime Robe"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Red"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Helios Logo"
-		},
+		}
 	]
 }

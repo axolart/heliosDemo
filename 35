@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Red Bow"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Neck",
 			"value": "Purple Scarf"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Arms",
 			"value": "Silver Cuff"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Pink T Shirt"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Blue"
-		},
+		}
 	]
 }

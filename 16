@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "White"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "White Glow"
-		},
-		{
+		},		{
 			"trait_type": "Mouth",
 			"value": "Lipstick"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "White Rubber Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Grey"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Double Helios Logo"
-		},
+		}
 	]
 }

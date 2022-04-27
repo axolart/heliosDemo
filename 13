@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Arms",
 			"value": "Silver Aegis"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Blue Sports Top"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Maroon"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Helios Lettering , Helios logo"
-		},
+		}
 	]
 }

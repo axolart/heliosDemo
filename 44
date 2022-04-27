@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Orange"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Orange"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Green Bikini"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Aqua"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Blue Staff"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Double Helios Logo"
-		},
+		}
 	]
 }

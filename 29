@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Brown/Grey"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Mouth",
 			"value": "Lipstick"
-		},
-		{
+		},		{
 			"trait_type": "Neck",
 			"value": "Raven Skull Necklace"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Gothic Dress"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Silver Spear"
-		},
+		}
 	]
 }

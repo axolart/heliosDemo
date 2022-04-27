@@ -6,42 +6,33 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Green Long Hat"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Yellow"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Ears",
 			"value": "Pointed"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Yellow Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Green Tunic"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Light Orange"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Sword"
-		},
+		}
 	]
 }

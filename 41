@@ -6,26 +6,21 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Blonde"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Blue and Red Body Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Gold"
-		},
+		}
 	]
 }

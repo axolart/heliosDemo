@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Cowboy hat"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Dark Brown Beard, Freckles"
-		},
-		{
+		},		{
 			"trait_type": "Neck",
 			"value": "Beaded Necklace"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Arms",
 			"value": "Flames"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Gold"
-		},
+		}
 	]
 }

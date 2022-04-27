@@ -6,42 +6,33 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Mouth",
 			"value": "Lipstick"
-		},
-		{
+		},		{
 			"trait_type": "Neck",
 			"value": "Metal Choker"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Arms",
 			"value": "Bronze Cuff"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Metal Bikini"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Bronze Spear"
-		},
+		}
 	]
 }

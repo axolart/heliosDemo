@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Grey"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Neck",
 			"value": "Dog Tags"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "White Vest"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Blue"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Helios Logo"
-		},
+		}
 	]
 }

@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Blonde"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Mouth",
 			"value": "Lipstick"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Blue Rubber Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Red"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Red Cape"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Helios Logo"
-		},
+		}
 	]
 }

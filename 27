@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Gold Lightning Crown"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "White"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "White Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Chiton"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Gold Lightning"
-		},
-		{
+		},		{
 			"trait_type": "Perk",
 			"value": "£500 Per Month For Life"
-		},
+		}
 	]
 }

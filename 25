@@ -6,30 +6,24 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Arms",
 			"value": "Bronze Aegis"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Scholar Uniform"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Light Brown"
-		},
+		}
 	]
 }

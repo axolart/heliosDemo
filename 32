@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Grey"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Brown Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Blue and Red Rubber Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Helios Logo"
-		},
+		}
 	]
 }

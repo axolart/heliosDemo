@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Blonde"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue Glow"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Blonde Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Black Armour Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Light Blue"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Red Cape"
-		},
+		}
 	]
 }

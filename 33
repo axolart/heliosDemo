@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Yellow"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Mouth",
 			"value": "Cigarette"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Curled Eyebrows, Yellow Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Black Suit"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Yellow"
-		},
+		}
 	]
 }

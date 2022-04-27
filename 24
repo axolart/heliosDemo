@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Bonnet"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "White"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Half Moon Glasses"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Wizards Robe"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Aqua"
-		},
+		}
 	]
 }

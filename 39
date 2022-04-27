@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Athena"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Dark Blue"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Lavendar"
-		},
-		{
+		},		{
 			"trait_type": "Neck",
 			"value": "Metal Headband"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Zip Hoodie"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Purple"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Helios Logo"
-		},
+		}
 	]
 }

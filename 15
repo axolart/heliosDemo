@@ -6,34 +6,27 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Brown"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Brown Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Robe"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Brown"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Bronze Thunderbolt"
-		},
+		}
 	]
 }

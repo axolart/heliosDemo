@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "White"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Green"
-		},
-		{
+		},		{
 			"trait_type": "Ears",
 			"value": "Pointed"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "White Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Alien"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Robe"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Green"
-		},
-		{
+		},		{
 			"trait_type": "Aura",
 			"value": "Green Aura"
-		},
+		}
 	]
 }

@@ -6,38 +6,30 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Black"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Black"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Black Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Human"
-		},
-		{
+		},		{
 			"trait_type": "Clothing",
 			"value": "Red Shirt"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Blue"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Straw Hat"
-		},
-		{
+		},		{
 			"trait_type": "Special",
 			"value": "Body Scar"
-		},
+		}
 	]
 }

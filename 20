@@ -6,26 +6,21 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Pink"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Pink"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Pink Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Pink Gum"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Pink"
-		},
+		}
 	]
 }

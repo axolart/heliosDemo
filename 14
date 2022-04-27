@@ -6,42 +6,33 @@
 		{
 			"trait_type": "Character",
 			"value": "Zeus"
-		},
-		{
+		},		{
 			"trait_type": "Head",
 			"value": "Horns"
-		},
-		{
+		},		{
 			"trait_type": "Hair",
 			"value": "Pink"
-		},
-		{
+		},		{
 			"trait_type": "Eyes",
 			"value": "Red"
-		},
-		{
+		},		{
 			"trait_type": "Mouth",
 			"value": "Fangs"
-		},
-		{
+		},		{
 			"trait_type": "Face",
 			"value": "Pink Beard"
-		},
-		{
+		},		{
 			"trait_type": "Skin",
 			"value": "Reptile"
-		},
-		{
+		},		{
 			"trait_type": "Arms",
 			"value": "Spiked Armbands"
-		},
-		{
+		},		{
 			"trait_type": "Background",
 			"value": "Dark Green"
-		},
-		{
+		},		{
 			"trait_type": "Back",
 			"value": "Spiked Shell"
-		},
+		}
 	]
 }
