@@ -1,0 +1,39 @@
+{
+	"name": "#58",
+ 	"description": "#58",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPQnP4a6qXzPBY1RpC9rnpR9aE1MD3B5TRXDFvBRsWgay",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Glasses"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black bodysuit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Special",
+			"value": "black crown moon"
+		},
+	]
+}

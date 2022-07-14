@@ -1,0 +1,35 @@
+{
+	"name": "#96",
+ 	"description": "#96",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmTiwuGY49GvhmNQtuXZHwsUfavTtV3xhNJxg6ZtBGnjq9",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Cat Helmet"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black bodysuit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+	]
+}

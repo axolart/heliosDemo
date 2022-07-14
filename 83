@@ -1,0 +1,43 @@
+{
+	"name": "#84",
+ 	"description": "#84",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmdv457FgJMp3sXDR55kk41JKe8e9QCDWmjWRSsaB2kRUM",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Fox ears"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Black nose"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Hedgedog"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Blue bodysuit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "silver sandals"
+		},
+	]
+}

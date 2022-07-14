@@ -1,0 +1,39 @@
+{
+	"name": "#99",
+ 	"description": "#99",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmZiGZDd8XGS68jZUhGryG49GNMpo5gh8EfEtKeGymhVWt",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "white"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black dragon dress"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Special",
+			"value": "crown moon silver"
+		},
+	]
+}

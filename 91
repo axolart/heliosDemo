@@ -1,0 +1,47 @@
+{
+	"name": "#92",
+ 	"description": "#92",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUdPz8x3NHtcdR4HAq6ap4vcVrvDMrPDkMdi47aTLQzH1",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Crown"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Ginger"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "heart necklace"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Ogre"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Green Dress"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Special",
+			"value": "gold quiver"
+		},
+	]
+}

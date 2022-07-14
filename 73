@@ -1,0 +1,39 @@
+{
+	"name": "#74",
+ 	"description": "#74",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWBNG2JghGjLJv1r3TXuVAHxhTb6qSuyeRDSD91gUUzSV",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red Armor jacket"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Red Stick"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Red stick"
+		},
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "#53",
+ 	"description": "#53",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmTkcDpVzKQGZaj9suvQbMMb3fHDxETGGYyEofAFimdD7V",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Belgium costume/red tie"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Helios logo version RYUK"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Helios ryuk/bronze wing sandal"
+		},
+	]
+}

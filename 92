@@ -1,0 +1,31 @@
+{
+	"name": "#93",
+ 	"description": "#93",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmf4EgG67GzyqMKrinU2nRJYmpsdxNFgYiiuDgj6Z4JK3D",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "purple"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "White Top 'R' letter"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+	]
+}

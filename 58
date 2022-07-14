@@ -1,0 +1,39 @@
+{
+	"name": "#59",
+ 	"description": "#59",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmS2ZhEBpp2k77cp5Lpjq1sD3HGJpJ1swZjbnAz6jy8tav",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Red Head Cover"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Dark brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red Outfit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Blue"
+		},
+	]
+}

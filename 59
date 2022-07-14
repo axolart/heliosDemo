@@ -1,0 +1,43 @@
+{
+	"name": "#60",
+ 	"description": "#60",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmW16VhZ8ceD77gvnKBBANmVeoAcwR9AcSc4FqcxpvpvbZ",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Translucent red"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Grain of beauty"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Scar"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Naked"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Bordeaux"
+		},
+		{
+			"trait_type": "Special",
+			"value": "right shoulder armor"
+		},
+	]
+}

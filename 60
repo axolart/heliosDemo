@@ -1,0 +1,35 @@
+{
+	"name": "#61",
+ 	"description": "#61",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmeWtesxemtSsCJhXkjV6owURwrjLVVHbEsXBXyt7ZfBJw",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Crown of God"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Emeraude"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Green God armor"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Green"
+		},
+	]
+}

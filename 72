@@ -1,0 +1,43 @@
+{
+	"name": "#73",
+ 	"description": "#73",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmQihucDkYx6ggirZfqbGqpf5T2JKPf25NsEJY36aMRSHK",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Clown makeup"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Red lipstick"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Purple costume/ blue tie"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Perk",
+			"value": "One holiday, redeemable one time only"
+		},
+	]
+}

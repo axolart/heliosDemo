@@ -1,0 +1,39 @@
+{
+	"name": "#71",
+ 	"description": "#71",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUCmuDNvnUNMuqdHqrxYraaWkYEwpiEdVKThdZoAUaAUb",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Cover buns"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Chinese outfit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Yellow"
+		},
+	]
+}

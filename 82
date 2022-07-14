@@ -1,0 +1,47 @@
+{
+	"name": "#83",
+ 	"description": "#83",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmb9GPMggUngV4WPYDntF5APDDE7Xxs87e6C5yhNEJdp5B",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Yellow"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Orange lips"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Pearl necklace"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Fiction"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Scar right soulder"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Orange dress"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+	]
+}

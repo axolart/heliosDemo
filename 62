@@ -1,0 +1,39 @@
+{
+	"name": "#63",
+ 	"description": "#63",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXsorzJ75Go4SDk126D4MtwzMaSrMXSn3By8zdkf2VqSz",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Headband"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Snake white & black"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Triangle red makeup"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black jacket"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Blue"
+		},
+	]
+}

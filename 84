@@ -1,0 +1,35 @@
+{
+	"name": "#85",
+ 	"description": "#85",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXXuJFqLHY7xxqfJSPePBzh141Dp7yg1v2SLTF3DmAmSM",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Ginger"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Grey"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "School uniform with scarf"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Brown"
+		},
+		{
+			"trait_type": "Special",
+			"value": "bronze lyre"
+		},
+	]
+}

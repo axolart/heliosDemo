@@ -1,0 +1,43 @@
+{
+	"name": "#62",
+ 	"description": "#62",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXjbTzNUtNahThJw1wsMFYSx62noAghy54iW2fvX81yan",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar top eyebrown/ eye down"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Warrior Armor"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Grey"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Cap made with Fur"
+		},
+		{
+			"trait_type": "Special",
+			"value": "silver staff"
+		},
+	]
+}

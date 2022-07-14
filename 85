@@ -1,0 +1,31 @@
+{
+	"name": "#86",
+ 	"description": "#86",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmX4VRdyhWAc4uJk2U7QDohzAhstj5LVuyB7efPzBd1bgh",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Blue Eye cover"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "White"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Blue collar coat"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+	]
+}

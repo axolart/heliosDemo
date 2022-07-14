@@ -1,0 +1,55 @@
+{
+	"name": "#81",
+ 	"description": "#81",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWeipt1NTNN86hJAG9h2Q1WKWGkh7AjTEcodHrzS2Foah",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Blue Crown"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear Red"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Blue Mask"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Arms gauntlets"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Blue and Silver bikini"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "silver bow arrow"
+		},
+		{
+			"trait_type": "Perk",
+			"value": "One holiday per year, for two years"
+		},
+	]
+}

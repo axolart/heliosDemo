@@ -1,0 +1,39 @@
+{
+	"name": "#66",
+ 	"description": "#66",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUWPumhAuMEqbGtYxWMfZeWRZXGTS1YKrudKSTCo6U5fr",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Green Necklace"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Blue Indigenous"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Straps arms"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Belt"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+	]
+}

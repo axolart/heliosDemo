@@ -1,0 +1,39 @@
+{
+	"name": "#98",
+ 	"description": "#98",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXWtCihbB4npLvEz2wuwrsck7US7Bks9HzxJ88r38LVC5",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Glasses"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Dark brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red & gold Armor"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		},
+		{
+			"trait_type": "Special",
+			"value": "helios battery heart and glasses stark"
+		},
+	]
+}

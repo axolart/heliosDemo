@@ -1,0 +1,43 @@
+{
+	"name": "#68",
+ 	"description": "#68",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmV7AJK5xDEgQDcvkUGU9aV61k15dwDqRCB25mtHioGsi9",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Arms",
+			"value": "Black soulder armor"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black warrior costume"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Bordeaux"
+		},
+		{
+			"trait_type": "Special",
+			"value": "black bow arrow"
+		},
+	]
+}

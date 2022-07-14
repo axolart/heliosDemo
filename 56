@@ -1,0 +1,35 @@
+{
+	"name": "#57",
+ 	"description": "#57",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNZYfmkq5u3PH6hm75EjydoX2DWh8X5szpZxwf1UMqNMH",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Glasses"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black suit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Special",
+			"value": "black wings sandals"
+		},
+	]
+}

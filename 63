@@ -1,0 +1,35 @@
+{
+	"name": "#64",
+ 	"description": "#64",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWnxwM5HbJ73VMoaQfrbWxBYfUUhUZDSvfSkyqfswmcX9",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Dark brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Yellow jumpsuit"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "nunchakou with wings"
+		},
+	]
+}

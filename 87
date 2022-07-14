@@ -1,0 +1,47 @@
+{
+	"name": "#88",
+ 	"description": "#88",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmcPDg9ui43PrNTP5wJsrKSLjCXZjTXitGn5M6UjXPz2Xu",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar eye"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human/ Scar chest"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Green jacket"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Orange"
+		},
+		{
+			"trait_type": "Back",
+			"value": "3 Sword"
+		},
+		{
+			"trait_type": "Special",
+			"value": "3 Sword"
+		},
+		{
+			"trait_type": "Perk",
+			"value": "One holiday per year, for three years"
+		},
+	]
+}

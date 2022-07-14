@@ -1,0 +1,35 @@
+{
+	"name": "#75",
+ 	"description": "#75",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmP7FdKiHR9iZmQK8BEaUQ9PLvkCoXiPx1jvjGyuyZcgnc",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Glasses"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black Costume/ Black tie"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Grey"
+		},
+	]
+}

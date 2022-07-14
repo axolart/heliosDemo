@@ -1,0 +1,39 @@
+{
+	"name": "#56",
+ 	"description": "#56",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmYuP6x63fwVjSEojU5wYjsNDzGZ3Apne7DhyCp2cNTcnC",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Tank top blue"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Brown"
+		},
+		{
+			"trait_type": "Special",
+			"value": "bronze bow arrow"
+		},
+	]
+}

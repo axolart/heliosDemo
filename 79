@@ -1,0 +1,43 @@
+{
+	"name": "#80",
+ 	"description": "#80",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmajNmWWa13oVGMsb8bfK3PcLFVNZMqtbMETETo29ecD7u",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "White liner"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Green lips"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Alien"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Purple top"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Purple"
+		},
+	]
+}

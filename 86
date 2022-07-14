@@ -1,0 +1,47 @@
+{
+	"name": "#87",
+ 	"description": "#87",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmU9UgPJTuoazrvKGbdbcHTrfA9JX1Zy1s8azw24ekiPib",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Burn to the eye"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear Brown"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar bottom eye"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Fire nation military uniform"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Orange"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Sword"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Lyre black"
+		},
+	]
+}

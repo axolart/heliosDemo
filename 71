@@ -1,0 +1,39 @@
+{
+	"name": "#72",
+ 	"description": "#72",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmT7MoJsQut8KW4X13uU2k8Rv893mFqBXEd9WN4EKQnmxr",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Green nose"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Green fiction character"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Santa claus red & white"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "lyre silver"
+		},
+	]
+}

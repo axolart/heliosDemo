@@ -1,0 +1,15 @@
+{
+	"name": "#67",
+ 	"description": "#67",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmV5HD5iN6AgioZFEsHPPL35JxCXqYC8HQNBx4LUkV4Yea",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Special",
+			"value": "gold sandals"
+		},
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "#79",
+ 	"description": "#79",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWH6JAuas5GyNkRsJ15FmWQnPmgskfYyGS3EswdobWogf",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Big Glasses"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Red coat"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear blue"
+		},
+	]
+}

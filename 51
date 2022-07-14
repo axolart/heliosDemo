@@ -1,0 +1,39 @@
+{
+	"name": "#52",
+ 	"description": "#52",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmaNSrGC44qitV5JPCu2VR9Eof6tciXsak27CwuLNyRhbY",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Dark blue"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sharingan red eyes"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Clear purple seal"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Sword"
+		},
+		{
+			"trait_type": "Special",
+			"value": "silver shoulder armor"
+		},
+	]
+}

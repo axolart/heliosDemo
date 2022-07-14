@@ -1,0 +1,39 @@
+{
+	"name": "#54",
+ 	"description": "#54",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNX2tHMutiakzvivXLBwc6YoUKEe2oXPQERCDfcnNbwJX",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Black uniform"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Blue"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Sword with Helios logo"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Sword with Helios Logo"
+		},
+	]
+}

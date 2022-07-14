@@ -1,0 +1,43 @@
+{
+	"name": "#95",
+ 	"description": "#95",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmW3ee49HGWSdcLtofqBjhwCftNYQfhgBppHNMsQ7JJBo3",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Cowboy Hat"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Brown"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Red Wild rag"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Yellow plaid shirt & cow jacket"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		},
+		{
+			"trait_type": "Special",
+			"value": "golden Lyre"
+		},
+	]
+}

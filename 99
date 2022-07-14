@@ -1,0 +1,31 @@
+{
+	"name": "#100",
+ 	"description": "#100",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmZe8NKqzZyQpSoK96zURwpQWjwAywznDo5MTHiptdgu9g",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Green jail uniform"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark Pink"
+		},
+	]
+}

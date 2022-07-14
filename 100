@@ -1,0 +1,39 @@
+{
+	"name": "#101",
+ 	"description": "#101",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNmaeEDSbKPHFXQxgMaYzQ6emqzwhbnM8q8Khrs96zEms",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Hair cover"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "White"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Yellow mask"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Yellow & black ninja unifrom"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Clear Brown"
+		},
+		{
+			"trait_type": "Special",
+			"value": "black staff"
+		},
+	]
+}

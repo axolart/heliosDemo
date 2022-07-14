@@ -1,0 +1,39 @@
+{
+	"name": "#82",
+ 	"description": "#82",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmdMksNi7HJidwcetGpesCnUxMYFcoEGW16Pvrwpv53AzZ",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Hat"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Dark Brown"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Brown jacket"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Orange"
+		},
+		{
+			"trait_type": "Special",
+			"value": "wip brown gold staff"
+		},
+	]
+}

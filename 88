@@ -1,0 +1,51 @@
+{
+	"name": "#89",
+ 	"description": "#89",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmRihc6CGPMe2xM1EYvsjTUQqiZH1tEJgs5A5gxYAebYhQ",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Artemis"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Makeup"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Pink/white/blue"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear blue"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Red lips"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar cheek"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "Necklace"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "jacket red/blue"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Special",
+			"value": "Baseball bat/ bagback"
+		},
+	]
+}

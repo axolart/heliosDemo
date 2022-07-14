@@ -1,0 +1,39 @@
+{
+	"name": "#65",
+ 	"description": "#65",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmQjdVLcWT6pVmLf5pgKXN9GJiSqqWQ2Mhpvi27H1ZCCVc",
+ 	"attributes": [
+		{
+			"trait_type": "Character",
+			"value": "Hermes"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Clear Brown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Clear Blue"
+		},
+		{
+			"trait_type": "Skin",
+			"value": "Human"
+		},
+		{
+			"trait_type": "Clothing",
+			"value": "Darke blue suit/ black tie"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Dark blue"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Circle intro from 007"
+		},
+		{
+			"trait_type": "Special",
+			"value": "black wing helmet"
+		},
+	]
+}
